@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Naingui+%F0%9F%91%8B;Tech+Student+%F0%9F%92%BB;Born+To+Make+Papers+%F0%9F%93%9C;Content+%26+Software+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+there!+I'm+Naingui+%F0%9F%91%8B;Tech+Student+3rd+Year+%F0%9F%92%BB;Born+To+Make+Papers+%F0%9F%93%9C;Content+%26+Software+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,14 +10,24 @@
   
   ### 🚀 **Passionné par le code, créateur de solutions innovantes**
   
+  <img src="https://komarev.com/ghpvc/?username=Naingui74&color=00D9FF&style=for-the-badge" alt="Profile views" />
+  
   [![GitHub followers](https://img.shields.io/github/followers/Naingui74?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/Naingui74)
   [![GitHub stars](https://img.shields.io/github/stars/Naingui74?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/Naingui74)
   
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/3792778080/icons/divider.svg" alt="divider" />
+</div>
+
 ---
 
 ## 💻 **Tech Stack**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Technologies+et+Outils+que+j'utilise+%F0%9F%9A%80" alt="Tech Stack Animation" />
+</div>
 
 ### **Languages & Frameworks**
 <div align="center">
@@ -61,7 +71,15 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/3792778080/icons/divider.svg" alt="divider" />
+</div>
+
 ## 🎯 **Projets**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Mes+projets+en+vedette+%F0%9F%8E%AF" alt="Projects Animation" />
+</div>
 
 <div align="center">
   
@@ -84,7 +102,15 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/3792778080/icons/divider.svg" alt="divider" />
+</div>
+
 ## 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Mes+statistiques+GitHub+%F0%9F%93%8A" alt="Stats Animation" />
+</div>
 
 <div align="center">
   
@@ -98,7 +124,15 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/3792778080/icons/divider.svg" alt="divider" />
+</div>
+
 ## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Mes+trophées+GitHub+%F0%9F%8F%86" alt="Trophies Animation" />
+</div>
 
 <div align="center">
   
@@ -117,6 +151,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/3792778080/icons/divider.svg" alt="divider" />
+</div>
 
 <div align="center">
   

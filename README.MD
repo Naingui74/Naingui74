@@ -90,7 +90,7 @@
   
 ![Naingui74's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naingui74&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&icon_color=00D9FF&title_color=00D9FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naingui74&theme=vision-friendly-dark&hide_border=false&fire=00D9FF&ring=00D9FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Naingui74&theme=vision-friendly-dark&hide_border=false&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naingui74&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=8&title_color=00D9FF)
 

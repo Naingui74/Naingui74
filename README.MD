@@ -71,7 +71,7 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naingui74&repo=RTYPE&theme=vision-friendly-dark&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Naingui74/RTYPE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naingui74&repo=RTYPE&theme=vision-friendly-dark&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Naingui74/R-TYPE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naingui74&repo=RAYTRACER&theme=vision-friendly-dark&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Naingui74/RAYTRACER)
 
 </div>

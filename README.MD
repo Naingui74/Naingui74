@@ -24,7 +24,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=600&color=00D9FF&background=00000000&center=true&vCenter=true&width=400&lines=Languages+%26+Frameworks" alt="Languages Animation" />
+  
+  #### <span style="color: #00D9FF;">Languages & Frameworks</span>
+  
 </div>
 
 <div align="center">
@@ -40,7 +42,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=600&color=00D9FF&background=00000000&center=true&vCenter=true&width=400&lines=Frontend+%26+3D" alt="Frontend Animation" />
+  
+  #### <span style="color: #00D9FF;">Frontend & 3D</span>
+  
 </div>
 
 <div align="center">
@@ -62,7 +66,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=600&color=00D9FF&background=00000000&center=true&vCenter=true&width=400&lines=Databases" alt="Databases Animation" />
+  
+  #### <span style="color: #00D9FF;">Databases</span>
+  
 </div>
 
 <div align="center">
@@ -75,7 +81,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=600&color=00D9FF&background=00000000&center=true&vCenter=true&width=400&lines=DevOps+%26+Cloud" alt="DevOps Animation" />
+  
+  #### <span style="color: #00D9FF;">DevOps & Cloud</span>
+  
 </div>
 
 <div align="center">
@@ -89,7 +97,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=600&color=00D9FF&background=00000000&center=true&vCenter=true&width=400&lines=Tools+%26+Others" alt="Tools Animation" />
+  
+  #### <span style="color: #00D9FF;">Tools & Others</span>
+  
 </div>
 
 <div align="center">

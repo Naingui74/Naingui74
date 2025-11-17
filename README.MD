@@ -23,7 +23,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=600&lines=💻+Tech+Stack+%7C+Technologies+%26+Outils" alt="Tech Stack Animation" />
 </div>
 
-### **Languages & Frameworks**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=600&color=00D9FF&background=00000000&center=true&vCenter=true&width=400&lines=Languages+%26+Frameworks" alt="Languages Animation" />
+</div>
+
 <div align="center">
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -36,7 +39,10 @@
 
 </div>
 
-### **Frontend & 3D**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=600&color=00D9FF&background=00000000&center=true&vCenter=true&width=400&lines=Frontend+%26+3D" alt="Frontend Animation" />
+</div>
+
 <div align="center">
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -55,7 +61,10 @@
 
 </div>
 
-### **Databases**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=600&color=00D9FF&background=00000000&center=true&vCenter=true&width=400&lines=Databases" alt="Databases Animation" />
+</div>
+
 <div align="center">
   
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -65,7 +74,10 @@
 
 </div>
 
-### **DevOps & Cloud**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=600&color=00D9FF&background=00000000&center=true&vCenter=true&width=400&lines=DevOps+%26+Cloud" alt="DevOps Animation" />
+</div>
+
 <div align="center">
   
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -76,7 +88,10 @@
 
 </div>
 
-### **Tools & Others**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=600&color=00D9FF&background=00000000&center=true&vCenter=true&width=400&lines=Tools+%26+Others" alt="Tools Animation" />
+</div>
+
 <div align="center">
   
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

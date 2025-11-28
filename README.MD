@@ -95,7 +95,7 @@
 
 <div align="center">
 
-### 🌐 **Profil GitHub complet généré automatiquement**
+### 🌐 **Tableau de bord GitHub**
 
 <!-- METRICS -->
 ![Metrics](https://raw.githubusercontent.com/Naingui74/Naingui74/main/github-metrics.svg)

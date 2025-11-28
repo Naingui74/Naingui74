@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=600&lines=💻+Tech+Stack+%7C+Technologies+%26+Outils" alt="Tech Stack Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=600&lines=💻+Stack+%7C+Technologies+%26+Outils" alt="Tech Stack Animation" />
 </div>
 
 ## 🧩 Languages & Frameworks
@@ -90,7 +90,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=600&lines=📊+GitHub+Metrics+%7C+Stats+%26+Achievements" alt="Metrics Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=600&lines=📊+GitHub+Board+%7C+Stats+%26+Achievements" alt="Metrics Animation" />
 </div>
 
 <div align="center">

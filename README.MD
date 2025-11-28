@@ -90,7 +90,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=600&lines=📊+GitHub+Metrics+%7C+Full+Insights" alt="Metrics Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=600&lines=📊+GitHub+Metrics+%7C+Stats+%26+Achievements" alt="Metrics Animation" />
 </div>
 
 <div align="center">
@@ -99,18 +99,6 @@
 
 <!-- METRICS -->
 ![Metrics](https://raw.githubusercontent.com/Naingui74/Naingui74/main/github-metrics.svg)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=600&lines=🏆+GitHub+Trophies+%7C+Achievements" alt="Trophies Animation" />
-</div>
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Naingui74&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)
 
 </div>
 
